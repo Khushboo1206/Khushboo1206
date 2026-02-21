@@ -27,14 +27,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css" /><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flask" /><br/>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git" /><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,react,nextjs,tailwind,flask,docker,githubactions,git,mongodb,mysql&perline=14" />
 
 </div>
-
----
 
 ## 🚀 Featured Projects
 
