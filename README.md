@@ -99,18 +99,7 @@ Databases:
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=khushboo-1206&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=khushboo-1206&theme=radical&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushboo-1206&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF" />
-
-</div>
 
 ---
 
