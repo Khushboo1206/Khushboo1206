@@ -1,16 +1,151 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Khushboo1206/Khushboo1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Khushboo Nimje
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Engineer;AI+Product+Builder;DevOps+Enthusiast;Building+Scalable+Systems" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🧠 About Me
+
+```bash
+> Full Stack Engineer focused on scalable architecture
+> Building AI-powered production-ready applications
+> Strong foundation in DSA, DBMS, OS & Computer Networks
+> Exploring DevOps, CI/CD & system design
+```
+
+🎓 B.Tech Computer Science Engineering @ MIT ADT University, Pune  
+⚡ Passionate about performance, clean code & system thinking  
+🎯 Targeting high-impact product engineering teams  
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AspAI — AI Career Intelligence Platform
+AI-powered full-stack system delivering personalized career guidance.
+
+**Tech Stack:** Next.js · React · Tailwind CSS · Prisma · Gemini AI  
+- Designed modular, scalable architecture  
+- AI-driven resume & interview assistant  
+- Optimized frontend performance by 30%  
+- Personalized recommendation engine  
+
+---
+
+### 🐳 DevTask Pro — CI/CD Driven Task Manager
+Containerized full-stack productivity system with automated deployment.
+
+**Tech Stack:** Flask · MongoDB · Docker · GitHub Actions  
+- RESTful backend architecture  
+- Dockerized environment for consistent deployment  
+- Implemented CI/CD automation pipeline  
+- Structured API integration  
+
+---
+
+### 📈 Crypto-Hunter — Real-Time Crypto Analytics
+Dynamic crypto intelligence dashboard.
+
+**Tech Stack:** React · Chart.js · REST APIs  
+- Integrated CoinGecko API  
+- Live market tracking engine  
+- Historical performance visualization  
+
+---
+
+### 📰 Spectrum Daily — Real-Time News Platform
+Dynamic news web application.
+
+**Tech Stack:** HTML · CSS · JavaScript  
+- Integrated NewsAPI  
+- Category-based filtering  
+- Real-time search functionality  
+
+---
+
+## ⚙️ Tech Arsenal
+
+```yaml
+Languages:
+  - C++
+  - JavaScript
+  - Python
+  - HTML
+  - CSS
+
+Frontend:
+  - React.js
+  - Next.js
+  - Tailwind CSS
+
+Backend:
+  - Flask
+  - REST APIs
+
+DevOps:
+  - Docker
+  - GitHub Actions
+  - CI/CD Pipelines
+
+Databases:
+  - MongoDB
+  - MySQL
+  - Prisma
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=khushboo-1206&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=khushboo-1206&theme=radical&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushboo-1206&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF" />
+
+</div>
+
+---
+
+## 🏆 Certifications & Achievements
+
+- Google Cloud Gen AI Exchange Hackathon  
+- Accenture AI Certification  
+- Cisco C++ Certified Associate Programmer  
+- AWS Solutions Architecture Job Simulation  
+- IIT Bombay C Training  
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:khushboo.nimje1206@gmail.com">
+<img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+<a href="https://linkedin.com/in/khushboo-nimje">
+<img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="https://github.com/khushboo-1206">
+<img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Engineering scalable systems — not just building projects.
+
+</div>
