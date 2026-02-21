@@ -23,6 +23,19 @@
 
 ---
 
+## ⚙️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css" /><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flask" /><br/>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git" /><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🤖 AspAI — AI Career Intelligence Platform
@@ -64,42 +77,6 @@ Dynamic news web application.
 - Integrated NewsAPI  
 - Category-based filtering  
 - Real-time search functionality  
-
----
-
-## ⚙️ Tech Arsenal
-
-```yaml
-Languages:
-  - C++
-  - JavaScript
-  - Python
-  - HTML
-  - CSS
-
-Frontend:
-  - React.js
-  - Next.js
-  - Tailwind CSS
-
-Backend:
-  - Flask
-  - REST APIs
-
-DevOps:
-  - Docker
-  - GitHub Actions
-  - CI/CD Pipelines
-
-Databases:
-  - MongoDB
-  - MySQL
-  - Prisma
-```
-
----
-
-
 
 ---
 
